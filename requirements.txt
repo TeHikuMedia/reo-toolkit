@@ -4,7 +4,7 @@ inflection
 pyahocorasick
 coverage
 wheel
-PyYAML==3.12
+PyYAML==5.4
 jupyter
 jupyterlab
 ipython
